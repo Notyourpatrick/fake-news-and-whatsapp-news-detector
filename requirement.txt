@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+joblib
+newspaper3k
+lime
+lxml_html_clean
